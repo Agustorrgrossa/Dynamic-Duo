@@ -15,7 +15,7 @@ Como analistas de datos contratados por el equipo técnico de los Miami Heat, te
 - Implementamos un servidor común en SQL Server, lo que permite el acceso compartido a la base de datos entre todos los colaboradores.
 
 ### Segundo Sprint
-- Se realizó la automatización de la gesta de datos con la tabla de `nba_stats`.
+- Se realizó la automatización de la gesta de datos con la tabla de `MH2020SEASON`.
 - Luego de filtrar, normalizar y limpiar las tablas, se subieron al repositorio de GitHub.
 - Se inició con la búsqueda de KPI.
 - Se hizo un análisis exploratorio de datos y se generaron EDAs e Insights.
