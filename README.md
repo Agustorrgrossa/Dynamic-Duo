@@ -42,7 +42,6 @@ En resumen, mientras que algunos jugadores están contribuyendo significativamen
 
 - **Jimmy Butler** y **Bam Adebayo** son fundamentales para el rendimiento del equipo, con altos promedios en puntos, asistencias y rebotes. Esto resalta su importancia tanto en la ofensiva como en la defensa.
 - **Terry Rozier**,  también muestra estadísticas competitivas en comparación con los jugadores del equipo, lo que puede indicar que es un jugador destacado en el equipo.
-- **Alondes Williams**, **Cole Swider**, y **R.J. Hampton** muestran promedios bajos en todas las métricas, lo que podría indicar que necesitan más tiempo en cancha o que deben trabajar en su efectividad.
 
 **Jimmy Butler** es el máximo anotador de este grupo, lo que indica su rol crucial en la ofensiva del equipo. **Bam Adebayo** destaca en rebotes, lo que sugiere que es importante en la defensa y en asegurar posesiones. **Tyler Herro** también contribuye significativamente en anotaciones y asistencias. Los números de pérdidas de balón (TO_Regular) ayudan a identificar a los jugadores que pueden necesitar mejorar en el manejo del balón (como en el caso de **Duncan Robinson**, **Haywood Highsmith**, **Cody Zeller** y **Omer Yurtseven**).
 
@@ -59,3 +58,4 @@ En resumen, mientras que algunos jugadores están contribuyendo significativamen
 - Considerar estrategias de desarrollo para jugadores con bajo rendimiento como **Williams**, **Swider** y **Hampton**, para maximizar su potencial.
 - **Maximización de Roles**: Asegurarse de que jugadores como **Butler** y **Adebayo** estén en situaciones que les permitan aprovechar sus habilidades para anotar y asistir.
 - **Análisis de Alineaciones**: Evaluar combinaciones de jugadores en la cancha que maximicen la producción ofensiva y defensiva del equipo.
+- - **Alondes Williams**, **Cole Swider**, y **R.J. Hampton** muestran promedios bajos en todas las métricas, lo que podría indicar que necesitan más tiempo en cancha o que deben trabajar en su efectividad.
