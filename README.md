@@ -27,35 +27,47 @@ Como analistas de datos contratados por el equipo técnico de los Miami Heat, te
 - Se creó un Dashboard interactivo en Power BI listo para ser entregado al cliente.
 
 ## Conclusiones del Proyecto
-- **Bam Adebayo** se destaca con un SPG de 1.14 y un Defensive_Rating_Proxy de 292.57, lo que lo convierte en un pilar defensivo esencial. Su habilidad para generar robos y tapones contribuye significativamente a la defensa del equipo.
-- **Jimmy Butler** también muestra un rendimiento defensivo sólido con un SPG de 1.32. Su capacidad para forzar pérdidas de balón es crucial en momentos clave del juego.
+# Informe de Análisis del Rendimiento del Equipo
 
-Algunos jugadores, como **Alondes Williams** y **R.J. Hampton**, tienen un SPG de 0.00, lo que sugiere que podrían estar luchando para impactar defensivamente. Sería útil analizar sus posicionamientos y decisiones defensivas para identificar áreas de mejora. 
+Durante la investigación encontramos hallazgos clave sobre el rendimiento del equipo y las estrategias que se podrían implementar para mejorar su desempeño.
 
-Invertir tiempo en entrenamientos específicos para estos jugadores podría ayudarles a ser más efectivos en la defensa, lo que podría tener un impacto positivo en el rendimiento del equipo.
+## Identificación de Jugadores Clave
+- **Bam Adebayo**: Es el pilar defensivo del equipo, destacando en métricas defensivas. Su capacidad para generar robos y bloqueos lo convierte en un defensor esencial.
+- **Jimmy Butler**: Sobresale en defensa, especialmente en momentos críticos, forzando pérdidas de balón que marcan la diferencia en los partidos.
+- **Tyler Herro**: Se destaca tanto en anotaciones como en asistencias, siendo un contribuyente importante en la ofensiva del equipo.
 
-### Estrategias Defensivas
-- Dado que el equipo tiene jugadores con altos SPG y BPG, se podría considerar implementar estrategias defensivas más agresivas que aprovechen esta capacidad para forzar pérdidas de balón. Esto puede incluir una defensa de presión en la línea de fondo y la implementación de zonas que permitan a los jugadores más habilidosos interceptar pases.
-- Evaluar el uso de alineaciones que maximicen la combinación de estos jugadores defensivamente eficaces en situaciones de juego crítico.
+## Estrategias Defensivas
+- **Fortalecer la defensa agresiva**: Implementar estrategias defensivas más presionantes que aprovechen las habilidades de Adebayo y Butler para forzar pérdidas de balón.
+- **Optimización de alineaciones defensivas**: En momentos críticos, utilizar combinaciones de jugadores que maximicen la efectividad en defensa.
 
-En resumen, mientras que algunos jugadores están contribuyendo significativamente a la defensa, otros necesitan desarrollar su rendimiento en esta área. Se deben realizar ajustes estratégicos y de entrenamiento para optimizar el rendimiento defensivo del equipo. La defensa es fundamental para ganar partidos, y mejorar en este aspecto podría ser un diferenciador clave en la temporada.
+## Observaciones Generales
+- **Jimmy Butler y Bam Adebayo**: Son fundamentales para el rendimiento del equipo, liderando en puntos, asistencias y rebotes. Ambos son clave tanto en ofensiva como en defensa.
+- **Terry Rozier**: Tiene estadísticas competitivas, aunque su relación costo-beneficio en función de su rendimiento puede no ser óptima.
+- **Alondes Williams, Cole Swider, y R.J. Hampton**: Muestran bajos promedios en todas las métricas, lo que indica que no están contribuyendo significativamente.
 
-- **Jimmy Butler** y **Bam Adebayo** son fundamentales para el rendimiento del equipo, con altos promedios en puntos, asistencias y rebotes. Esto resalta su importancia tanto en la ofensiva como en la defensa.
-- **Terry Rozier**,  también muestra estadísticas competitivas en comparación con los jugadores del equipo, lo que puede indicar que es un jugador destacado en el equipo.
+## Recomendaciones para el Equipo Técnico
+- **Desarrollo de jugadores de bajo rendimiento**: Enfocar el desarrollo en Williams, Swider y Hampton para maximizar su potencial.
+- **Maximización de roles clave**: Asegurarse de que Butler y Adebayo tengan roles destacados tanto en ataque como en defensa, optimizando su impacto en el equipo.
+- **Análisis de alineaciones**: Evaluar combinaciones de jugadores que maximen el rendimiento ofensivo y defensivo en diferentes situaciones de juego.
 
-**Jimmy Butler** es el máximo anotador de este grupo, lo que indica su rol crucial en la ofensiva del equipo. **Bam Adebayo** destaca en rebotes, lo que sugiere que es importante en la defensa y en asegurar posesiones. **Tyler Herro** también contribuye significativamente en anotaciones y asistencias. Los números de pérdidas de balón (TO_Regular) ayudan a identificar a los jugadores que pueden necesitar mejorar en el manejo del balón (como en el caso de **Duncan Robinson**, **Haywood Highsmith**, **Cody Zeller** y **Omer Yurtseven**).
+## Recomendaciones Ofensivas
+- **Potenciar a Jimmy Butler**: Diseñar jugadas ofensivas que aprovechen su capacidad de anotar y asistir, enfocándose en situaciones de uno contra uno.
+- **Optimizar la rotación de jugadores clave**: Mantener en cancha a jugadores como Adebayo, Herro y Butler en momentos importantes del partido, adaptando sus roles según la formación del rival.
+- **Mejorar la contribución en rebotes**: Jugadores como Kevin Love tienen un impacto significativo en los rebotes. Se recomienda aumentar su tiempo de juego y su participación en esta área.
 
-- **Jimmy Butler**, **Bam Adebayo**, y **Tyler Herro** son los tres jugadores que destacan al estar por encima del promedio en ambos aspectos: salario y TS%. Esto sugiere que son jugadores clave para el equipo, contribuyendo tanto en rendimiento (TS%) como en inversión salarial.
-- **Terry Rozier** tiene un salario elevado, pero su TS% no está por encima del promedio, lo que puede plantear preguntas sobre su relación costo-beneficio en el equipo.
-- Jugadores como **Haywood Highsmith**, **Kevin Love**, **Josh Richardson**, **Thomas Bryant**, **Orlando Robinson**, y **Dru Smith** tienen un TS% por encima del promedio a un costo salarial relativamente bajo. Esto puede indicar oportunidades de desarrollo y un buen uso de recursos.
+## Interpretación de los Datos
+- **Jimmy Butler**: Es el máximo anotador, lo que confirma su rol central en la ofensiva del equipo.
+- **Bam Adebayo**: Lidera en rebotes, destacando su importancia en defensa y en asegurar posesiones.
+- **Tyler Herro**: Es un importante contribuyente en anotaciones y asistencias.
 
-## Recomendaciones para el Cuerpo Técnico
-- **Maximizar el Uso de Jimmy Butler**: Diseñar jugadas ofensivas que maximicen su capacidad de anotación. Considerar que su estilo de juego se centre en aprovechar sus habilidades en el uno contra uno y crear situaciones para que anote o asista.
-- **Optimizar la Rotación de Jugadores**: Algunos jugadores, como **Bam Adebayo** y **Tyler Herro**, están mostrando contribuciones significativas tanto en puntos como en rebotes y asistencias. Mantener a estos jugadores en la cancha durante momentos clave, y considerar alternar sus roles en función de los emparejamientos del oponente para maximizar su impacto.
-- **Fomentar la Contribución en el Tablero**: **Kevin Love** tiene un número notable de rebotes (73) y puede ser un recurso en la defensa y el ataque. Aumentar su tiempo en la cancha y alentar a los jugadores a ser más agresivos en la lucha por los rebotes, especialmente en los partidos donde el rival es fuerte en esta área.
+## Recomendaciones Financieras
+- **Jimmy Butler, Bam Adebayo y Tyler Herro**: Sobresalen tanto en rendimiento como en relación costo-beneficio.
+- **Terry Rozier**: Pese a su salario elevado, destaca con su rendimiento.
+- **Haywood Highsmith, Kevin Love y Josh Richardson**: Tienen un rendimiento alto a un costo salarial relativamente bajo, lo que indica un buen uso de los recursos.
 
-### Desarrollo de Jugadores
-- Considerar estrategias de desarrollo para jugadores con bajo rendimiento como **Williams**, **Swider** y **Hampton**, para maximizar su potencial.
-- **Maximización de Roles**: Asegurarse de que jugadores como **Butler** y **Adebayo** estén en situaciones que les permitan aprovechar sus habilidades para anotar y asistir.
-- **Análisis de Alineaciones**: Evaluar combinaciones de jugadores en la cancha que maximicen la producción ofensiva y defensiva del equipo.
-- - **Alondes Williams**, **Cole Swider**, y **R.J. Hampton** muestran promedios bajos en todas las métricas, lo que podría indicar que necesitan más tiempo en cancha o que deben trabajar en su efectividad.
+## Resumen
+Para maximizar el rendimiento del equipo, es crucial:
+- Aprovechar las fortalezas defensivas y ofensivas de jugadores clave como Butler y Adebayo.
+- Desarrollar a los jugadores con bajo rendimiento.
+- Ajustar estrategias de rotación y desarrollo para optimizar el impacto en el equipo.
+
